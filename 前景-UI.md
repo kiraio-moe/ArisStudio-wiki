@@ -19,3 +19,8 @@
 - 命令：txtSize {size}
 - 例子：txtSize small
 - size [big,medium,small]
+
+# 选择按钮 button
+
+- 命令：button {text1} {targetName1} {text2} {targetName2} {text3} {targetName3}
+- 例子：button 人物(Button1) tSpr 图片(Button2) tBg 声音(Button3) tSound
