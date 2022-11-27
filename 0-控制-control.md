@@ -17,7 +17,7 @@
 示例：
 ```json
 {
-    "txtName": "播放",
+    "txtName": "Demo",
     "auto": {
         "enable": true,
         "seconds": 1.5
