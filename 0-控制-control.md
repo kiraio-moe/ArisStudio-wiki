@@ -7,6 +7,8 @@
 
 # 设置部分 setting.json
 
+在 `/Data/Setting.json`
+
 - txtName 播放脚本名称
 - auto
   - 启用自动
