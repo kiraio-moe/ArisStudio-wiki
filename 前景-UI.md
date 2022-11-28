@@ -24,3 +24,8 @@
 
 - 命令：button {text1} {targetName1} {text2} {targetName2} {text3} {targetName3}
 - 例子：button 人物(Button1) tSpr 图片(Button2) tBg 声音(Button3) tSound
+
+# 速度线 speedline
+
+- 显示：speedlineShow
+- 隐藏：speedlineHide
