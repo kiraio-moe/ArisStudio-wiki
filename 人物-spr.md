@@ -11,6 +11,23 @@
 - 例子：spr hl hihumi 0.5
 - 0为暗，1为亮
 
+# 设置通信效果 comm
+- 命令：spr comm {nameId}
+- 例子：spr comm hihumi
+
+# 还原效果 def
+- 命令：spr def {nameId}
+- 例子：spr def hihumi
+
+# 以通信效果出现 showC
+- 命令：spr showC {nameId}
+- 例子：spr showC hihumi
+
+# 以通信效果消失 hideC
+- 命令：spr hideC {nameId}
+- 例子：spr hideC hihumi
+
+
 # 面部状态 state
 - 命令：spr state {nameId} {sprAnimName}
 - 例子：spr state hihumi 03
