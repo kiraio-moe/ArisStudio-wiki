@@ -1,4 +1,4 @@
-# 位置
+# 文件位置
 
 设置文件在 `/Data/Setting.json`
 
