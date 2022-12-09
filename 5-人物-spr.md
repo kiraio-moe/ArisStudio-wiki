@@ -6,7 +6,7 @@
 - 直接隐藏 `spr hideD {nameId}`
 - 高亮 `spr hl/highlight {nameId} {0.0~1.0}` (0为暗，1为亮,建议0.5和1就行)
 
-# 通信效果 comm/communication
+# 通信效果
 
 - 设置通信效果 `spr comm/communication {nameId}`
 - 还原效果 `spr def/default {nameId}`
