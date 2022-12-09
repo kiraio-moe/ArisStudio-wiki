@@ -1,0 +1,43 @@
+# 基础
+
+- 出现 `spr show {nameId}`
+- 隐藏 `spr hide {nameId}`
+- 直接出现 `spr showD {nameId}`
+- 直接隐藏 `spr hideD {nameId}`
+- 高亮 `spr hl/highlight {nameId} {0.0~1.0}` (0为暗，1为亮,建议0.5和1就行)
+
+# 通信效果 comm/communication
+
+- 设置通信效果 `spr comm/communication {nameId}`
+- 还原效果 `spr def/default {nameId}`
+- 以通信效果出现 `spr showC {nameId}`
+- 以通信效果消失 `spr hideC {nameId}`
+
+
+# 面部状态
+
+- 命令：`spr state {nameId} {stateId}`
+- 例子：spr state hihumi 03
+- 如何查看状态名与面部表情对应关系？
+  - 以 `/Data` 为根目录开启 web 服务，比如用 vscode 的 Live Server 插件
+
+# 表情
+
+- 命令：`spr emo/emoticon {nameId} {emoName}`
+- 例子：`spr emo hihumi Action`
+- emoName 目前可通过播放 `/Data/0Txt/Tutorial/T5` 查看
+
+# 动画
+
+- 倒地动画 `spr down {nameId}`
+- 升起动画 `spr up {nameId}`
+- 设置空动画，用来还原动画状态 `spr empty {nameID}`
+
+# 位置
+
+- 设置水平位置 `spr x {nameID} {x}` (建议-10，-5，0，5，10)
+- 是以speed速度移动到某位置 `spr move {nameID} {x} {speed}`
+- 人物靠近 `spr close {nameID}`
+- 人物后退 `spr back {nameId}`
+- X/Y轴抖动 `spr shakeX/shakeY {nameId} {speed} {amplitude} {period}`
+- 更改图层，调换覆盖顺序 `spr z {z}`
