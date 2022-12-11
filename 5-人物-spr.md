@@ -20,6 +20,7 @@
 - 例子：spr state hihumi 03
 - 如何查看状态名与面部表情对应关系？
   - 以 `/Data` 为根目录开启 web 服务，比如用 vscode 的 Live Server 插件
+  - 用浏览器打开后在输入框输入 sprName 然后点 load 即可查看
 
 # 表情
 
