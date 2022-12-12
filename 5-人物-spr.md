@@ -18,13 +18,13 @@
 
 - 命令：`spr state {nameId} {stateId}`
 - 例子：spr state hihumi 03
-- [如何查看状态名与面部表情对应关系?](/blob/main/Doc/preview_state.md)
+- [如何查看状态名与面部表情对应关系?](/Tualin14/baPlayer/blob/main/Doc/preview_state.md)
 
 # 表情
 
 - 命令：`spr emo/emoticon {nameId} {emoName}`
 - 例子：`spr emo hihumi Action`
-- [emoName preview](/blob/main/Doc/preview_emo.md)
+- [emoName preview](/Tualin14/baPlayer/blob/main/Doc/preview_emo.md)
 
 # 动画
 
