@@ -7,7 +7,7 @@
 - y 设置Y轴位置用来对齐
 - scale 缩放图片到合适大小
 
-# 其余命令同 spr 除
+# 其余命令同 spr 但需注意
 
 - 要把 spr 用 ch 代替，如 `ch show Tairitsu` 设置了自定义图片的出现
 - ch 没有 state 命令，`ch state Tairitsu 01` 是无效的，因为自定义图片没有此类数据
