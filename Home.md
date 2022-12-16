@@ -20,9 +20,8 @@
 
 # 播放教程文件
 
-教程文件在 `/Data/0Txt/Tutorial`
-
-供随时播放 [在线观看](https://www.bilibili.com/video/BV1c14y1J7aj)
+- 教程文件在 `/Data/0Txt/Tutorial`
+- 供随时播放 [在线观看](https://www.bilibili.com/video/BV1c14y1J7aj)
 
 - T1 - 特殊与导入命令
 - T2 - 选择按钮，小标题，横幅和文本框
