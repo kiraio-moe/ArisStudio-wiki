@@ -12,7 +12,7 @@
 - 还原效果 `spr def/default {nameId}`
 - 以通信效果出现 `spr showC {nameId}`
 - 以通信效果消失 `spr hideC {nameId}`
-
+- 在通信效果时，如果使用 state 改面部表情会取消掉通信状态，如需要通信状态修改表情，[请以通信状态加载](https://github.com/Tualin14/baPlayer/wiki/1-%E5%8A%A0%E8%BD%BD-load#%E4%BB%A5%E9%80%9A%E4%BF%A1%E7%8A%B6%E6%80%81%E5%8A%A0%E8%BD%BD)
 
 # 面部状态
 
