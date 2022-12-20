@@ -3,9 +3,10 @@
 - 命令 `load spr {nameId} {sprName}`
 - 例 `load spr midori midori_spr`
 
-- 以通信状态加载
+## 以通信状态加载
 - 命令 `load sprC {nameId} {sprName}`
 - 例 `load sprC midoriC midori_spr`
+- 通信状态加载的学生可以用 `spr` 命令使用
 
 # 背景加载
 
