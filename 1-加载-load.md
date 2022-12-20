@@ -3,6 +3,10 @@
 - 命令 `load spr {nameId} {sprName}`
 - 例 `load spr midori midori_spr`
 
+- 以通信状态加载
+- 命令 `load sprC {nameId} {sprName}`
+- 例 `load sprC midoriC midori_spr`
+
 # 背景加载
 
 - 命令 `load bg {nameId} {bgName}`
