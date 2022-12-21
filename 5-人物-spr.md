@@ -4,7 +4,7 @@
 - 隐藏 `spr hide {nameId}`
 - 直接出现 `spr showD {nameId}`
 - 直接隐藏 `spr hideD {nameId}`
-- 高亮 `spr hl/highlight {nameId} {0.0~1.0}` (0为暗，1为亮,建议0.5和1就行)
+- 高亮 `spr hl/highlight {nameId} {0.0~1.0}` (0 为暗，1 为亮,建议 0.5 和 1 就行)
 
 # 通信效果
 
@@ -18,13 +18,13 @@
 
 - 命令：`spr state {nameId} {stateId}`
 - 例子：spr state hihumi 03
-- [如何查看状态名与面部表情对应关系?](/Tualin14/baPlayer/blob/main/Doc/preview_state.md)
+- [state 预览方法](./9-state%E9%A2%84%E8%A7%88%E6%96%B9%E6%B3%95-state_previe.md)
 
 # 表情
 
 - 命令：`spr emo/emoticon {nameId} {emoName}`
 - 例子：`spr emo hihumi Action`
-- [emoName preview](/Tualin14/baPlayer/blob/main/Doc/preview_emo.md)
+- [emo 表情预览](./9-emo%E8%A1%A8%E6%83%85%E9%A2%84%E8%A7%88-emo_preview.md)
 
 # 动画
 
@@ -35,8 +35,8 @@
 # 位置
 
 - 设置水平位置 `spr x {nameID} {x}` (建议-10，-5，0，5，10)
-- 是以speed速度移动到某位置 `spr move {nameID} {x} {speed}`
+- 是以 speed 速度移动到某位置 `spr move {nameID} {x} {speed}`
 - 人物靠近 `spr close {nameID}`
 - 人物后退 `spr back {nameId}`
-- X/Y轴抖动 `spr shakeX/shakeY {nameId} {speed} {amplitude} {period}`
-- 更改图层，调换覆盖顺序 `spr z {z}`
+- X/Y 轴抖动 `spr shakeX/shakeY {nameId} {speed} {amplitude} {period}`
+- 更改图层，调换覆盖顺序 `spr z {z}` (默认在 0 层，0~9 可用)

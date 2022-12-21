@@ -5,7 +5,7 @@
 
 - 命令 `load ch {nameId} {y} {scale} {chName}`
 - 示例 `load ch Tairitsu 4.5 2 7.png`
-- y 设置Y轴位置用来对齐
+- y 设置 Y 轴位置用来对齐
 - scale 缩放图片到合适大小
 
 # 其余命令同 spr 但需注意
