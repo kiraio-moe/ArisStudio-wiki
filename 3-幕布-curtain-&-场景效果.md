@@ -4,7 +4,7 @@
 
 - 命令 `curtain show`
 
-## 隐藏
+## 逐渐隐藏
 
 - 命令 `curtain hide`
 
@@ -12,9 +12,13 @@
 
 - 命令 `curtain showD`
 
-## 设置为 黑/白 色
+## 直接隐藏
 
-- 命令 `curtain black/white`
+- 命令 `curtain hidedD`
+
+## 设置为 黑/白/红 色
+
+- 命令 `curtain black/white/red`
 
 # 场景效果
 
@@ -23,9 +27,9 @@
 
 ## 速度线 speedline
 
-- 速度线出现 `speedlineShow`
-- 速度线消失 `speedlineHide`
-- 可以指定显示秒数 `speedline {seconds}`
+- 速度线出现 `speedline show`
+- 速度线消失 `speedline hide`
+- 可以指定显示秒数 `speedline s {seconds}`
 
 ## 烟雾 smoke
 
