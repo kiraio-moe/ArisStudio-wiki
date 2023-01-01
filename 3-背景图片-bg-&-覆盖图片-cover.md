@@ -35,7 +35,7 @@
 ## 设置覆盖图片
 
 - 命令：`cover set {nameId}`
-- 例子：`cover set ClassRoom2`
+- 例子：`cover set player`
 
 ## 显示覆盖图片
 
