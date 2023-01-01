@@ -30,6 +30,8 @@
 
 # 覆盖图片
 
+![Cover](./Image/Cover.png)
+
 ## 设置覆盖图片
 
 - 命令：`cover set {nameId}`

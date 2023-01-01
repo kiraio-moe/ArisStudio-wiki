@@ -31,10 +31,14 @@
 - 速度线消失 `speedline hide`
 - 可以指定显示秒数 `speedline s {seconds}`
 
+![Smoke](./Image/Screen/Speedline.png)
+
 ## 烟雾 smoke
 
 - 显示 `smoke show`
 - 隐藏 `smoke hide`
+
+![Smoke](./Image/Screen/Smoke.png)
 
 ## 沙尘 dust
 

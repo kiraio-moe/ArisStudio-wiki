@@ -40,3 +40,9 @@
 
 - 命令 `load se {nameId} {seName}`
 - 例 `load se Granted SE_Granted_01.wav`
+
+# 结束加载
+
+- 命令 `load end`
+- 例 `load end`
+- 此命令必须存在于加载结束后
