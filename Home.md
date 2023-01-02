@@ -1,9 +1,11 @@
 # 使用方法
 
-- 在 /Data/0Txt 文件夹中创建文本文件编写脚本
-- 脚本命令请依次查看目录
-- 打开播放器 baplayer.exe 点开 Menu 按钮，在 Txt 里输入播放脚本文件名字，点击 Load 加载完毕后关闭菜单播放
-- 默认加载 Demo 文件
+<img align="right" src="./Image/baplayer-command.png" width="400">
+
+1. 在 `/Data/0Txt` 文件夹中创建文本文件编写脚本
+2. 脚本命令请依次查看目录
+3. 打开播放器 `baplayer.exe` 点开 `Menu` 按钮，在 `Txt` 里输入播放脚本文件名字，点击 `Load` 加载完毕后关闭菜单播放
+4. 默认加载 `Demo` 文件
 
 # Data 素材文件结构
 
@@ -18,9 +20,9 @@
 
 # 表情预览方法见目录 9
 
-# 脚本辅助编写插件
+# 脚本辅助 vscode 插件
 
 - 在 vscode 里搜 [baplayer command](https://marketplace.visualstudio.com/items?itemName=dzaaaaaa.baplayer-command)
 - 效果
 
-![baplayer-command](./Image/baplayer-command.png)
+![bc](./Image/baplayer-command.gif)
