@@ -17,3 +17,10 @@
   - Spr 本地人物
 
 # 表情预览方法见目录 9
+
+# 脚本辅助编写插件
+
+- 在 vscode 里搜 [baplayer command](https://marketplace.visualstudio.com/items?itemName=dzaaaaaa.baplayer-command)
+- 效果
+
+![baplayer-command](./Image/baplayer-command.png)

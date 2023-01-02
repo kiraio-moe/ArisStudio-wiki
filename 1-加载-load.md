@@ -11,7 +11,7 @@
 - 例 `load sprC midoriC midori_spr`
 - 通信状态加载的学生可以用 `spr` 命令使用
 
-## [自定义人物](./6-%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BA%BA%E7%89%A9-ch.md)
+## [自定义人物](./6-%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BA%BA%E7%89%A9-ch)
 
 # 背景加载
 
