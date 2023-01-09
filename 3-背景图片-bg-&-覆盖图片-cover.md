@@ -3,7 +3,7 @@
 ## 设置背景图片
 
 - 命令 `bg set {nameId} {scale}`
-- scale 缩放 float
+- scale 缩放 float 省略为 1
 - 例子 `bg set ClassRoom2` or `bg set ClassRoom2 1`
 
 ## 逐渐显示背景
