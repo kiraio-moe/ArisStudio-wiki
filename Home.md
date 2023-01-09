@@ -7,6 +7,12 @@
 3. 打开播放器 `baplayer.exe` 点开 `Menu` 按钮，在 `Txt` 里输入播放脚本文件名字，点击 `Load` 加载完毕后关闭菜单播放
 4. 默认加载 `Demo` 文件
 
+## 快捷键
+
+- Space 点击
+- 1，2，3 上至下选择按钮
+- Enter debug 确定命令
+
 # Data 素材文件结构
 
 - Data
