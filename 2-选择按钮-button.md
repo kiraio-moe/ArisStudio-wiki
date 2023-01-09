@@ -17,3 +17,4 @@
 
 - 命令 `buttonS {number} '{按钮内容1}' '{targetName1}' '{按钮内容2}' '{targetName2}' '{按钮内容3}' '{targetName3}'`
 - 例 `buttonS 2 '播放教程' 'tN' '直接预览目前已有表情动画' 'tEmo'`
+- 一个按钮是2，上中下分别对应1，2，3
