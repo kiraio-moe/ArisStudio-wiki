@@ -39,4 +39,4 @@
 - 人物靠近 `spr close {nameID}`
 - 人物后退 `spr back {nameId}`
 - X/Y 轴抖动 `spr shakeX/shakeY {nameId} {speed} {amplitude} {period}`
-- 更改图层，调换覆盖顺序 `spr z {z}` (默认在 0 层，0~9 可用)
+- 更改图层，调换覆盖顺序 `spr z {nameID} {z}` (默认在 0 层，0~9 可用)
