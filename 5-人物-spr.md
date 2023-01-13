@@ -6,7 +6,7 @@
 - 直接隐藏 `spr hideD {nameId}`
 - 高亮 `spr hl/highlight {nameId} {0.0~1.0}` (0 为暗，1 为亮,建议 0.5 和 1 就行)
 
-# 通信效果
+# 通信效果（不建议使用，替代见[请以通信状态加载](https://github.com/Tualin14/baPlayer/wiki/1-%E5%8A%A0%E8%BD%BD-load#%E4%BB%A5%E9%80%9A%E4%BF%A1%E7%8A%B6%E6%80%81%E5%8A%A0%E8%BD%BD)）
 
 - 设置通信效果 `spr comm/communication {nameId}`
 - 还原效果 `spr def/default {nameId}`
