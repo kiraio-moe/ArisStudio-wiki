@@ -1,0 +1,8 @@
+- 设置 `bgm/se set {nameId}`
+- 播放 `bgm/se play`
+- 暂停 `bgm/se pause`
+- 结束 `bgm/se stop`
+- 音量 `bgm/se v {volume}` volume(0.0 ~ 1.0)
+- 声音逐渐消失 `bgm/se down`
+- 将声音设置为播放一次 `bgm/se once`
+- 将声音设置为循环播放 `bgm/se loop`
