@@ -17,4 +17,4 @@
 
 - 命令 `buttonS {number} '{按钮内容1}' '{targetName1}' '{按钮内容2}' '{targetName2}' '{按钮内容3}' '{targetName3}'`
 - 例 `buttonS 2 '播放教程' 'tN' '直接预览目前已有表情动画' 'tEmo'`
-- 按钮按上中下从 1 开始
+- 按钮自上到下从 1 开始

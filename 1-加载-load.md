@@ -11,6 +11,18 @@
 - 例 `load sprC midoriC midori_spr`
 - 通信状态加载的学生可以用 `spr` 命令使用
 
+## 加载(或以通信状态加载)可具有差分的自定义角色
+
+- 命令 `load char/charC {nameId} {scale} {charFolder} [imglist]`
+- 例 `load char/charC tt 2 test [01.png, 02.png,  03.png, 04.png]`
+- 请以文件夹区分人物，如
+  - Character
+    - test
+      - 01.png
+      - 02.png
+      - 03.png
+      - 04.png
+
 # 背景加载
 
 - 命令 `load bg {nameId} {bgName}`

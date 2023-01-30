@@ -15,11 +15,24 @@
 - 命令 `text hide`
 - 例 `text hide`
 
-# 字体
+# 字体大小
 
 - 命令 `text size {size}`
 - size [small, medium, big]
 - 例 `text size big`
+
+# 打字机效果时间间隔
+
+- 命令 `text interval {seconde}`
+- 例 `text interval 0.02`
+
+# 切换字体
+
+- 命令 `text font {size}`
+- 例 `text font JiangChengYuanTi`
+- 字体需要安装在系统中, 方法
+  1. 将字体以管理员安装到电脑上
+  2. 重启电脑
 
 # 富文本
 
