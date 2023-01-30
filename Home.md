@@ -18,13 +18,38 @@
 
 # 文件目录结构
 
+## PC
+
 - 0Txt 存放脚本
-- Data
+- Data 素材文件
   - Bgm 本地音乐
+    - bgm1.ogg
+    - ...
+  - Character 自定义人物
+    - char1
+      - 01.png
+      - 02.png
+      - ...
   - Image 本地图片
     - Background 背景图片
+      - bg.png
+      - ...
     - Cover 覆盖图片
+      - cover.png
+      - ...
   - SoundEffect 本地音效
+    - se.wav
+    - ...
   - Spr 本地人物
+    - spr1.skel
+    - spr1.altas
+    - spr1.png
+    - ...
+
+## ANDROID
+
+- `/Android/data/com.dzaaaaaa.ArisStudio/files`
+  - 0Txt 存放脚本
+  - Data 素材文件, 内容同上
 
 # vscode 辅助脚本编写插件（待更新
