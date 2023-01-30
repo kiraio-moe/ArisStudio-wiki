@@ -1,4 +1,4 @@
-加载前请确定素材文件放在[相应文件夹](./Home)中
+加载前请确定素材文件放在[相应文件夹](https://github.com/Tualin14/ArisStudio/wiki#%E6%96%87%E4%BB%B6%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84)中
 
 # 人物加载
 
