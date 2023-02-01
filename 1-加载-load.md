@@ -1,4 +1,4 @@
-加载前请确定素材文件放在[相应文件夹](https://github.com/Tualin14/ArisStudio/wiki#%E6%96%87%E4%BB%B6%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84)中
+> 加载前请确定素材文件放在[相应文件夹](https://github.com/Tualin14/ArisStudio/wiki#%E6%96%87%E4%BB%B6%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84)中
 
 # 人物加载
 
@@ -12,6 +12,8 @@
 - 通信状态加载的学生可以用 `spr` 命令使用
 
 ## 加载(或以通信状态加载)可具有差分的自定义角色
+
+> 参考 1000x1200，scale 2.7
 
 - 命令 `load char/charC {nameId} {scale} {charFolder} [imglist]`
 - 例 `load char/charC tt 2 test [01.png, 02.png,  03.png, 04.png]`
