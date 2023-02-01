@@ -18,7 +18,7 @@
 
 ## 设置透明度
 
-- 命令 `curtain a {aphla}`
+- 命令 `curtain a {alpha}`
 - 示例 `curtain a 0.5`
 
 ## 设置为 黑/白/红 色
