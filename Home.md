@@ -52,4 +52,6 @@
   - 0Txt 存放脚本
   - Data 素材文件, 内容同上
 
-# vscode 辅助脚本编写插件（待更新
+# vscode 辅助脚本编写插件
+
+> vscode 插件搜 [ArisStudio command](https://marketplace.visualstudio.com/items?itemName=dzaaaaaa.baplayer-command)

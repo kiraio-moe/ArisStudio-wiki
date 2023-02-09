@@ -6,6 +6,12 @@
 
 - 命令 `bg set {nameId}`
 - 例子 `bg set ClassRoom2`
+- 自带 show 效果
+
+## 切换背景图片
+
+- 命令 `bg change {nameId}`
+- 例子 `bg change ClassRoom2`
 
 ## 逐渐显示背景
 
