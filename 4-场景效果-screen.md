@@ -1,7 +1,5 @@
 # 场景效果
 
-## 速度线 speedline
-
 - 速度线 `screen speedline show/hide`
 - 速度线带指定显示秒数 `screen speedline s {seconds}`
 - 烟雾 `screen smoke show/hide`
