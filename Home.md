@@ -3,6 +3,8 @@
 1. 在根目录 0Txt 文件夹中建立 .txt 文件，并编写脚本
 2. 将脚本名称填入 Load 上面的输入框中，并点击 Load 加载脚本
 
+# [可视化](https://github.com/sanmusen214/arisstudio-blockly)
+
 # 快捷键
 
 打开 Debug 窗口后仅关闭 Debug 窗口命令可用
